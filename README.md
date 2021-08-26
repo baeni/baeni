@@ -17,17 +17,17 @@ Feel free to reach out:
 
 #### Languages, Tools
 
-<a href="" target="_blank"><img align="left" alt="HTML" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" alt="HTML" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" /></a>
 
-<a href="" target="_blank"><img align="left" alt="CSS" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" alt="CSS" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" /></a>
 
-<a href="" target="_blank"><img align="left" alt="JS" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img align="left" alt="JS" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" /></a>
 
-<a href="" target="_blank"><img align="left" alt="Vue" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/vue.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/Vue.js" target="_blank"><img align="left" alt="Vue" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/vue.svg" /></a>
 
-<a href="" target="_blank"><img align="left" alt="Java" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img align="left" alt="Java" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" /></a>
 
-<a href="" target="_blank"><img align="left" alt="GitHub" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg" /></a>
+<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img align="left" alt="GitHub" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" /></a>
 
 <br />
 <br />
