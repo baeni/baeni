@@ -15,6 +15,16 @@ Feel free to reach out:
 <br />
 <br />
 
+#### Current Projects
+
+<ul>
+  <li><a href="https://moovy.baeni.de" target="_blank">Moovy</a></li>
+  <li><a href="https://dev.baeni.de" target="_blank">Personal Website</a></li>
+</ul>
+
+<br />
+<br />
+
 #### Languages, Tools
 
 <a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" alt="HTML" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" /></a>
