@@ -2,58 +2,42 @@
 I'm Benny (@baeni) — a self-taught developer based in Germany with a fetish for design.<br />
 Feel free to reach out:
 
-<a href="https://baeni.de" target="_blank"><img align="left" alt="Discord" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/safari.svg" /></a>
-
-<a href="https://discord.com/invite/AJr2d8Z" target="_blank"><img align="left" alt="Discord" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" /></a>
-
-<a href="https://www.facebook.com/benjamin.saalfeld.1" target="_blank"><img align="left" alt="Facebook" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" /></a>
-
-<a href="https://instagram.com/benny.sfd" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" /></a>
-
-<a href="mailto:baeni.saa@gmail.com" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" /></a>
+[<img align="left" alt="Personal Website" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/safari.svg" />][websitepersonal]
+[<img align="left" alt="Discord" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
+[<img align="left" alt="Facebook" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />][facebook]
+[<img align="left" alt="Instagram" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
+[<img align="left" alt="Mail" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />][mail]
 
 <br />
 <br />
 
 #### Current Projects
 
-<ul>
-  <li><a href="https://moovy.baeni.de" target="_blank">Moovy</a></li>
-  <li><a href="https://dev.baeni.de" target="_blank">Personal Website</a></li>
-</ul>
+- [Moovy][mail]
+- [Personal Website][websitepersonal]
 
-<br />
 <br />
 
 #### Languages, Tools
 
-<a href="https://en.wikipedia.org/wiki/HTML" target="_blank"><img align="left" alt="HTML" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" /></a>
+[<img align="left" alt="HTML" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />][wikipediahtml]
+[<img align="left" alt="CSS" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />][wikipediacss]
+[<img align="left" alt="JS" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />][wikipediajs]
+[<img align="left" alt="Vue" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/vue.svg" />][wikipediavue]
+[<img align="left" alt="Java" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" />][wikipediajava]
+[<img align="left" alt="GitHub" width="26px" target="_blank" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" />][wikipediagithub]
 
-<a href="https://en.wikipedia.org/wiki/CSS" target="_blank"><img align="left" alt="CSS" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" /></a>
+[websitepersonal]: https://baeni.de
+[websitemoovy]: https://moovy.baeni.de
 
-<a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img align="left" alt="JS" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" /></a>
+[discord]: https://discord.com/invite/AJr2d8Z
+[facebook]: https://www.facebook.com/benjamin.saalfeld.1
+[instagram]: https://instagram.com/benny.sfd
+[mail]: mailto:baeni.saa@gmail.com
 
-<a href="https://en.wikipedia.org/wiki/Vue.js" target="_blank"><img align="left" alt="Vue" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/vue.svg" /></a>
-
-<a href="https://en.wikipedia.org/wiki/Java_(programming_language)" target="_blank"><img align="left" alt="Java" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" /></a>
-
-<a href="https://en.wikipedia.org/wiki/GitHub" target="_blank"><img align="left" alt="GitHub" width="22px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" /></a>
-
-<br />
-<br />
-
-<!--
-#### Software
-
-<a href="" target="_blank"><img align="left" alt="Visual Studio Code" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vsc/vsc.png" /></a>
-
-<a href="" target="_blank"><img align="left" alt="PhpStorm" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/phpstorm/phpstorm.png" /></a>
-
-<a href="" target="_blank"><img align="left" alt="IntelliJ" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/intellij/intellij.png" /></a>
-
-<a href="" target="_blank"><img align="left" alt="Adobe Illustrator" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobe/illustrator.png" /></a>
-
-<a href="" target="_blank"><img align="left" alt="Adobe Photoshop" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/adobe/photoshop.png" /></a>
-
-<a href="" target="_blank"><img align="left" alt="FileZilla" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/filezilla/filezilla.png" /></a>
--->
+[wikipediahtml]: https://en.wikipedia.org/wiki/HTML
+[wikipediacss]: https://en.wikipedia.org/wiki/CSS
+[wikipediajs]: https://en.wikipedia.org/wiki/JavaScript
+[wikipediavue]: https://en.wikipedia.org/wiki/Vue.js
+[wikipediajava]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[wikipediagithub]: https://en.wikipedia.org/wiki/GitHub
