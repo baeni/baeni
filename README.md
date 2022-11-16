@@ -1,5 +1,5 @@
 ## Hej there 👋
-I'm [Benny (@baeni)][websitepersonal] — a self-taught developer based in Germany with a fetish for design.<br />
+I'm [Benny (@baeni)][websitepersonal] — a self-taught developer now in an apprenticeship based in Germany with a fetish for design.<br />
 Feel free to reach out:
 
 [<img align="left" alt="Personal Website" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/safari.svg" />][websitepersonal]
@@ -15,6 +15,7 @@ Feel free to reach out:
 
 - [Moovy][websitemoovy]
 - [Personal Website][websitepersonal]
+- [SpotifyCTRL][spotify-ctrl]
 
 <br />
 
@@ -29,6 +30,7 @@ Feel free to reach out:
 
 [websitepersonal]: https://baeni.de
 [websitemoovy]: https://moovy.baeni.de
+[spotify-ctrl]: https://github.com/baeni/spotify-ctrl
 
 [discord]: https://discord.com/invite/AJr2d8Z
 [facebook]: https://www.facebook.com/benjamin.saalfeld.1
