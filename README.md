@@ -4,7 +4,6 @@ Feel free to reach out:
 
 [<img align="left" alt="Personal Website" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/safari.svg" />][websitepersonal]
 [<img align="left" alt="Discord" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
-[<img align="left" alt="Facebook" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg" />][facebook]
 [<img align="left" alt="Instagram" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
 [<img align="left" alt="Mail" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />][mail]
 
