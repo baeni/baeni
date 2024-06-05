@@ -2,15 +2,13 @@
 I'm [Benny (@baeni)][websitepersonal] — a developer apprentice based in Germany with a fetish for design.<br />
 Feel free to reach out:
 
-[<img align="left" alt="Personal Website" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/safari.svg" />][websitepersonal]
 [<img align="left" alt="Discord" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
-[<img align="left" alt="Instagram" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />][instagram]
 [<img align="left" alt="Mail" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />][mail]
 
 <br />
 <br />
 
-#### Languages, Tools
+#### Tech Stack
 
 [<img align="left" alt="HTML" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />][wikipediahtml]
 [<img align="left" alt="CSS" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/css3.svg" />][wikipediacss]
