@@ -1,5 +1,5 @@
 ## Hej there 👋
-I'm [Benny (@baeni)][websitepersonal] — a self-taught developer now in an apprenticeship based in Germany with a fetish for design.<br />
+I'm [Benny (@baeni)][websitepersonal] — a developer apprentice based in Germany with a fetish for design.<br />
 Feel free to reach out:
 
 [<img align="left" alt="Personal Website" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/safari.svg" />][websitepersonal]
