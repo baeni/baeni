@@ -10,14 +10,6 @@ Feel free to reach out:
 <br />
 <br />
 
-#### Current Projects
-
-- [Moovy][websitemoovy]
-- [Personal Website][websitepersonal]
-- [SpotifyCTRL][spotify-ctrl]
-
-<br />
-
 #### Languages, Tools
 
 [<img align="left" alt="HTML" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/html5.svg" />][wikipediahtml]
