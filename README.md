@@ -15,15 +15,9 @@ Feel free to reach out:
 [<img align="left" alt="JS" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/javascript.svg" />][wikipediajs]
 [<img align="left" alt="Vue" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/vue.svg" />][wikipediavue]
 [<img align="left" alt="Java" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/java.svg" />][wikipediajava]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" />][wikipediagithub]
-
-[websitepersonal]: https://baeni.de
-[websitemoovy]: https://moovy.baeni.de
-[spotify-ctrl]: https://github.com/baeni/spotify-ctrl
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/git.svg" />][wikipediagit]
 
 [discord]: https://discord.com/invite/AJr2d8Z
-[facebook]: https://www.facebook.com/benjamin.saalfeld.1
-[instagram]: https://instagram.com/benny.sfd
 [mail]: mailto:baeni.saa@gmail.com
 
 [wikipediahtml]: https://en.wikipedia.org/wiki/HTML
@@ -31,4 +25,4 @@ Feel free to reach out:
 [wikipediajs]: https://en.wikipedia.org/wiki/JavaScript
 [wikipediavue]: https://en.wikipedia.org/wiki/Vue.js
 [wikipediajava]: https://en.wikipedia.org/wiki/Java_(programming_language)
-[wikipediagithub]: https://en.wikipedia.org/wiki/GitHub
+[wikipediagit]: https://en.wikipedia.org/wiki/Git
