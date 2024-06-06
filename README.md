@@ -1,5 +1,5 @@
 ## Hej there 👋
-I'm [Benny (@baeni)][websitepersonal] — a developer apprentice based in Germany with a fetish for design.<br />
+I'm Benny (@baeni) — a developer apprentice based in Germany with a fetish for design.<br />
 Feel free to reach out:
 
 [<img align="left" alt="Discord" width="26px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/discord.svg" />][discord]
