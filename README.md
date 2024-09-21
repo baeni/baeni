@@ -1,4 +1,4 @@
-### Hello, it's Benny. A developer apprentice based in Dortmund, Germany. <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="20" />
+### Hello, it's Benny. A developer apprentice based in Dortmund, Germany. <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="20" />
 
 I try to build wonderful things as a developer with a little big fetish for design.
 
