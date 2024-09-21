@@ -1,4 +1,4 @@
-### Hej! I'm Benny, a developer apprentice based in Dortmund, Germany. 👋
+### Hello, it's Benny. A developer apprentice based in Dortmund, Germany. 👋
 
 I try to build wonderful things as a developer with a little big fetish for design.
 
