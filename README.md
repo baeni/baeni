@@ -2,7 +2,7 @@
 
 I try to build wonderful things as a developer with a little big fetish for design.
 
-📮 [Email][mail] — Get in touch
+📮 [Mail me][mail]
 
 <br/>
 
