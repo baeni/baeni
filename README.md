@@ -6,5 +6,4 @@ I try to build wonderful things as a developer with a little big fetish for desi
 
 
 
-[website]: https://bsaa-dev.vercel.app
 [mail]: mailto:baeni.saa@gmail.com
